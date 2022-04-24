@@ -7,6 +7,8 @@ As you can see I'm running this Mac OS Monterey without any problem.
 My advice it's to try it... At the beggining I was downloaded on EFI for 3200G and replace some text, but the sistem was working as it should on that EFI.
 All you need to do it's to TRY it.
 
+You can download the Monterey from https://tinyurl.com/3fs6epzv , write it on USB with BalenaEtcher 
+
 This EFI it's been made by me, and it's bassed on my configuration:
 
 

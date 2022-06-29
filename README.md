@@ -19,7 +19,7 @@ This EFI it's been made by me, and it's bassed on my configuration:
 
 All you need to do is:
 
-- Download the Monterey from here: https://tinyurl.com/3fs6epzv , write it on USB with BalenaEtcher 
+- Download the Monterey from here: https://www.mediafire.com/file/u8drur0yzb18ap5/Olarila_Monterey_12.4.raw/file , write it on USB with BalenaEtcher 
 - Second step it's to burn the raw image on an USB stick (minim 16GB)
 - Put the EFI file to another USB stick (minim 4GB Required)
 - Boot from the second USB stick (where it';s the file) and select Install Mac OS (external)
